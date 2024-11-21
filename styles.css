@@ -188,8 +188,5 @@ input[type=submit]{
 .brand img {
   display: none;
 }
-.brand p {
-  text-align: center;
-  border: 2px solid red;
-}
+
 }
